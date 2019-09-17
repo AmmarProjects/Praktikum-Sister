@@ -1,0 +1,109 @@
+{
+    "menu": [
+        {
+            "kategori": "T-SHIRT",
+            "nama": "AMO BLACK T-SHIRT",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 150000,
+            "gambar": "Desain-1.jpg"
+        },
+        {
+            "kategori": "T-SHIRT",
+            "nama": "ANFY BLACK T-SHIRT",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 150000,
+            "gambar": "Desain-2.jpg"
+        },
+        {
+            "kategori": "HOODIE",
+            "nama": "ATLEY NAVY PULLOVER HOODIE",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 295000,
+            "gambar": "Desain-3.jpg"
+        },
+        {
+            "kategori": "BACKPACK",
+            "nama": "AUSTEN BLACK CHECKER FRONT POCKET BACKPACK",
+            "deskripsi": "Simple backpack with printed logo, Entry zip and checker pouch in front.",
+            "harga": 300000,
+            "gambar": "Desain-4.jpg"
+        },
+        {
+            "kategori": "BVE",
+            "nama": "BVE BLACK PILLOW",
+            "deskripsi": "A SOFT AND FLUFFY STUFF TO FONDLE YOUR HEAD.",
+            "harga": 100000,
+            "gambar": "Desain-5.jpg"
+        },
+        {
+            "kategori": "HOODIE",
+            "nama": "BVE BLACK PULLOVER HOODIE",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 400000,
+            "gambar": "Desain-6.jpg"
+        },
+        {
+            "kategori": "T-SHIRT",
+            "nama": "BVE BLACK T-SHIRT",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 200000,
+            "gambar": "Desain-7.jpg"
+        },
+        {
+            "kategori": "MUG",
+            "nama": "MUG BVE",
+            "deskripsi": "A VESSEL, SOMETHING USED FOR DRINK.",
+            "harga": 100000,
+            "gambar": "Desain-8.jpg"
+        },
+        {
+            "kategori": "T-SHIRT",
+            "nama": "BVE WHITE T-SHIRT.",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 40000,
+            "gambar": "Desain-9.jpg"
+        },
+        {
+            "kategori": "JACKET",
+            "nama": "BVE WINDBREAKER JACKET",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 445000,
+            "gambar": "Desain-10.jpg"
+        },
+        {
+            "kategori": "HOODIE",
+            "nama": "CARMEL BLACK PULLOVER HOODIE",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 300000,
+            "gambar": "Desain-11.jpg"
+        },
+        {
+            "kategori": "T-SHIRT",
+            "nama": "CARMEL BLACK PULLOVER T-SHIRT",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 150000,
+            "gambar": "Desain-12.jpg"
+        },
+        {
+            "kategori": "T-SHIRT",
+            "nama": "BOLTON BLACK T-SHIRT",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 150000,
+            "gambar": "Desain-13.jpg"
+        },
+        {
+            "kategori": "JACKET",
+            "nama": "BRAVE BLACK WINDBREAKER JACKET",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 300000,
+            "gambar": "Desain-14.jpg"
+        },
+        {
+            "kategori": "JACKET",
+            "nama": "BRENDA NAVY TRACKTOP JACKET",
+            "deskripsi": "Cotton 100%, Print logo, Print lable inside, Regular fit short sleeve tshirt with screenprinted SIZE S M L XL.",
+            "harga": 300000,
+            "gambar": "Desain-15.jpg"
+        }
+    ]
+}
